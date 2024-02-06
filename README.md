@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Todo List
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Description
+An app to track your future tasks and their current completion status. 
 
 ## Available Scripts
 
